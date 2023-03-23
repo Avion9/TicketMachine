@@ -1,0 +1,9 @@
+Automat am Marktplatz
+Es sollen zwei Geschaftsfalle getestet werden. 
+Normaler Geschaftsbetrieb: 
+0;0;10;10;10;10;10
+5.00;0;0;1;0;0;0;0
+2.00;0;1;0;0;0;0;0
+3.60;0;0;2;0;0;0;0
+3.60;0;0;2;0;0;0;0;25
+3.65;0;0;2;0;0;0;0
